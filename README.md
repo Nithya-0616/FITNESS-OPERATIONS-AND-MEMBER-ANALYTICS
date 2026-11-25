@@ -76,6 +76,8 @@ These filters allow users to explore the dashboard from different membership and
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ![Fitness Operations and Member Analytics Dashboard](Fitness%20Dashboard(3).png)
 
 ## Project Files
